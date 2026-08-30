@@ -2,15 +2,7 @@
 
 I'm a software engineer in Addis Ababa. I build backend and web systems around real workflows: secure APIs, relational data, reporting, integrations, and the interfaces people use to make sense of it all.
 
-Most of my application work is in TypeScript or Java. Outside of that, I spend a possibly unreasonable amount of time making computers reproducible with Nix.
-
-## NixOS, all the way down
-
-> Declarative builds. Reproducible environments. Reliable rollbacks.
-
-My machines are configuration, not setup instructions. I use flakes, NixOS modules, Home Manager, and a dendritic multi-host layout to keep systems, users, development tools, desktops, and services in one versioned model.
-
-If it matters, it belongs in the configuration.
+Most of my application work is in TypeScript or Java. My machines are declared too: flakes, Home Manager, reusable modules, and rollbacks I actually trust.
 
 ## Tools I reach for
 
