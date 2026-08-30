@@ -14,22 +14,3 @@ Most of my application work is in TypeScript or Java. My machines are declared t
 ## Say hello
 
 [LinkedIn](https://linkedin.com/in/ebawak-fekede) · [Email](mailto:ebawakfekede@protonmail.com)
-
-<details>
-<summary>GitHub numbers</summary>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebawak-fekede&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebawak-fekede&theme=github">
-  <img height="165" alt="Ebawak's GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ebawak-fekede&theme=github">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebawak-fekede&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebawak-fekede&theme=github">
-  <img height="165" alt="Ebawak's public repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebawak-fekede&theme=github">
-</picture>
-
-</details>
