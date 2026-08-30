@@ -13,4 +13,4 @@ Most of my application work is in TypeScript or Java. My machines are declared t
 
 ## Say hello
 
-[LinkedIn](https://linkedin.com/in/ebawak-fekede) · [Email](mailto:ebawakfekede@protonmail.com)
+[LinkedIn](https://linkedin.com/in/ebawak-fekede) · [Upwork](https://www.upwork.com/freelancers/~010a4583352604ce0a?mp_source=share) · [Email](mailto:ebawakfekede@protonmail.com)
